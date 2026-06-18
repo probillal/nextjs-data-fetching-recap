@@ -11,6 +11,9 @@ const Header = () => {
       <li>
         <Link href="/post">Posts</Link>
       </li>
+      <li>
+        <Link href="/products">Products</Link>
+      </li>
     </>
   );
   return (
