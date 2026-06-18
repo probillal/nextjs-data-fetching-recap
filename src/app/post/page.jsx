@@ -8,7 +8,7 @@ const getPosts = async () => {
     const res = await fetch("https://jsonplaceholder.typicode.com/posts");
     return res.json();
   } catch (error) {
-    throw new Error("Error fetching posts:", error);
+    throw new Error(`Error fetching posts: ${error.message}`);
     return [];
   }
 };
