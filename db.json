@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Mouse",
+      "category": "Accessories",
+      "price": 1000,
+      "stock": 50,
+      "brand": "Logitech"
+    },
+    {
+      "id": 2,
+      "name": "Mechanical Keyboard",
+      "category": "Accessories",
+      "price": 4500,
+      "stock": 25,
+      "brand": "Redragon"
+    },
+    {
+      "id": 3,
+      "name": "27-inch Monitor",
+      "category": "Monitor",
+      "price": 22000,
+      "stock": 15,
+      "brand": "Samsung"
+    },
+    {
+      "id": 4,
+      "name": "Gaming Headset",
+      "category": "Audio",
+      "price": 3500,
+      "stock": 30,
+      "brand": "HyperX"
+    },
+    {
+      "id": 5,
+      "name": "External SSD 1TB",
+      "category": "Storage",
+      "price": 9500,
+      "stock": 20,
+      "brand": "Kingston"
+    }
+  ]
+}
