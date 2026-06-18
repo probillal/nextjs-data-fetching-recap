@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "name": "Wireless Mouse",
+      "name": "Wireless cat Mouse",
       "category": "Accessories",
       "price": 1000,
       "stock": 50,
@@ -34,7 +34,7 @@
     },
     {
       "id": 5,
-      "name": "External SSD 1TB",
+      "name": "External SSD 5TB",
       "category": "Storage",
       "price": 9500,
       "stock": 20,
